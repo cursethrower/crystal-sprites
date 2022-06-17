@@ -10,7 +10,3 @@ A Python automation project from 2019. I was in need of a few resized Pokémon s
   <img width="200" height="200" src="https://github.com/daggeredworks/crystal-sprites/blob/master/pokemon/normal/resized/244_Entei.gif?raw=true">
   <img width="200" height="200" src="https://github.com/daggeredworks/crystal-sprites/blob/master/pokemon/normal/resized/245_Suicune.gif?raw=true">
 </p>
-
-# Contact
-- nulldagger#3089
-- [twitter](https://twitter.com/daggeredworks)
